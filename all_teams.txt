@@ -1,0 +1,14 @@
+Team,Team size,Team effort,Daily performance,GitLab MR events,Tickets done
+Team 1 Before,4,2824,8.00,27.50,8.25
+Team 3 Before,5,7065.70,7.41,277.00,93.80
+Team 4 Before,3,3920,8.00,232.67,88.33
+Team 6 Before,3,5512.32,7.54,104.33,144
+Team 7 Before,3,4520,8.00,145,44.67
+Team 1 During,5,7720,8.00,423.80,82.60
+Team 2 During,3,5264,8.00,143.67,93.67
+Team 3 During,7,10855.70,7.79,603.14,139.29
+Team 4 During,5,8921.60,7.85,324,89.20
+Team 5 During,2,2840,8.00,222,36.50
+Team 6 During,3,5512.32,7.54,137.67,137.67
+Team 7 During,5,9038.74,7.93,304.20,116.60
+Team 8 During,4,5022.08,7.27,188.25,59.25
