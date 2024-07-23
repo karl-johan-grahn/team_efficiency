@@ -4,7 +4,7 @@ Title: Team Efficiency
 Version: 0.1
 Date: 2021-03-01
 Author: Karl Johan Grahn
-Maintainer: Karl Johan Grahn
+Maintainer: Karl Johan Grahn <karljohan.grahn@gmail.com>
 Description: Utility tools for MBA dissertation
 Imports:
     deaR, Hmisc
